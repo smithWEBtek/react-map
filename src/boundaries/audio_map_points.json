@@ -1,4 +1,4 @@
-var audio_map_points = {
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -22,7 +22,10 @@ var audio_map_points = {
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.09679921, 42.26946828]
+        "coordinates": [
+          -71.09679921,
+          42.26946828
+        ]
       }
     },
     {
@@ -45,7 +48,10 @@ var audio_map_points = {
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.10119007, 42.26833092]
+        "coordinates": [
+          -71.10119007,
+          42.26833092
+        ]
       }
     },
     {
@@ -68,7 +74,10 @@ var audio_map_points = {
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.08054988, 42.27855742]
+        "coordinates": [
+          -71.08054988,
+          42.27855742
+        ]
       }
     }
   ]
